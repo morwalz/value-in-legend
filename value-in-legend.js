@@ -28,5 +28,5 @@
         });
     });
     // Hide the tooltip but allow the crosshair
-    H.Tooltip.prototype.defaultFormatter = function () { return false; };
+    //H.Tooltip.prototype.defaultFormatter = function () { return false; };
 }(Highcharts));
